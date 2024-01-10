@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`03` Stoica, George, et al. "ZipIt! Merging Models from Different Tasks without Training." (arXiv 2023). [[summary](summaries/03_stoica2023zipit.md)], [[source](https://openreview.net/forum?id=LEYUkvdUhq)]
+
 `02` Wortsman, Mitchell, et al. "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time." (ICML2022). [[summary](summaries/02_wortsman2022model.md)], [[source](https://arxiv.org/pdf/2203.05482.pdf)]
 
 `01` Yang, Yuncheng, et al. "Pick the Best Pre-trained Model: Towards Transferability Estimation for Medical Image Segmentation." (MICCAI2023). [[summary](summaries/01_yang2023pick.md)], [[source](https://arxiv.org/pdf/2307.11958.pdf)]
