@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`04` Liu, Jiahui, et al. "Few-shot Learning for Inference in Medical Imaging with Subspace Feature Representations." (arXiv 2023). [[summary](summaries/04_liu2023few.md)], [[source](https://arxiv.org/pdf/2306.11152.pdf)]
+
 `03` Stoica, George, et al. "ZipIt! Merging Models from Different Tasks without Training." (arXiv 2023). [[summary](summaries/03_stoica2023zipit.md)], [[source](https://openreview.net/forum?id=LEYUkvdUhq)]
 
 `02` Wortsman, Mitchell, et al. "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time." (ICML2022). [[summary](summaries/02_wortsman2022model.md)], [[source](https://arxiv.org/pdf/2203.05482.pdf)]
