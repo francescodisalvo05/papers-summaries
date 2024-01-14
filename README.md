@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`05` Moschella, Luca, et al. ‘Relative Representations Enable Zero-Shot Latent Space Communication’. (ICLR2023). [[summary](summaries/05_moschella2023relative.md)], [[source](https://arxiv.org/abs/2209.15430)]
+
 `04` Liu, Jiahui, et al. "Few-shot Learning for Inference in Medical Imaging with Subspace Feature Representations." (arXiv 2023). [[summary](summaries/04_liu2023few.md)], [[source](https://arxiv.org/pdf/2306.11152.pdf)]
 
 `03` Stoica, George, et al. "ZipIt! Merging Models from Different Tasks without Training." (arXiv 2023). [[summary](summaries/03_stoica2023zipit.md)], [[source](https://openreview.net/forum?id=LEYUkvdUhq)]
