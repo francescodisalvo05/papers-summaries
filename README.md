@@ -6,7 +6,10 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
-`05` Moschella, Luca, et al. ‘Relative Representations Enable Zero-Shot Latent Space Communication’. (ICLR2023). [[summary](summaries/05_moschella2023relative.md)], [[source](https://arxiv.org/abs/2209.15430)]
+`06` Cannistraci, Irene, et al. "From Bricks to Bridges: Product of Invariances to Enhance Latent Space Communication." (ICLR2024). [[summary](summaries/05_moschella2023relative.md)], [[source](https://arxiv.org/abs/2209.15430)]
+
+
+`05` Moschella, Luca, et al. "Relative Representations Enable Zero-Shot Latent Space Communication". (ICLR2023). [[summary](summaries/05_moschella2023relative.md)], [[source](https://arxiv.org/abs/2209.15430)]
 
 `04` Liu, Jiahui, et al. "Few-shot Learning for Inference in Medical Imaging with Subspace Feature Representations." (arXiv 2023). [[summary](summaries/04_liu2023few.md)], [[source](https://arxiv.org/pdf/2306.11152.pdf)]
 
