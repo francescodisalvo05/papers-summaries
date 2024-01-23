@@ -6,8 +6,9 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
-`06` Cannistraci, Irene, et al. "From Bricks to Bridges: Product of Invariances to Enhance Latent Space Communication." (ICLR2024). [[summary](summaries/05_moschella2023relative.md)], [[source](https://arxiv.org/abs/2209.15430)]
+`07` Crisostomi, Donato, et al. "From Charts to Atlas: Merging Latent Spaces into One." (PMLR 2023) [[summary](summaries/07_crisostomi2023from.md)], [[source](https://arxiv.org/abs/2311.06547)]
 
+`06` Cannistraci, Irene, et al. "From Bricks to Bridges: Product of Invariances to Enhance Latent Space Communication." (ICLR2024). [[summary](summaries/06_cannistraci2023from.md)], [[source](https://arxiv.org/abs/2310.01211)]
 
 `05` Moschella, Luca, et al. "Relative Representations Enable Zero-Shot Latent Space Communication". (ICLR2023). [[summary](summaries/05_moschella2023relative.md)], [[source](https://arxiv.org/abs/2209.15430)]
 
