@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`09` Fu, Stephanie, et al. "FeatUp: A Model-Agnostic Framework for Features at Any Resolution." (ICLR 2024). [[summary](summaries/09_fu2024featup.md)], [[source](https://arxiv.org/abs/2403.10516)]
+
 `08` Balestriero, Randall, Jerome Pesenti, and Yann LeCun. "Learning in high dimension always amounts to extrapolation." (arXiv 2021). [[summary](summaries/08_balestriero2021learning.md)], [[source](https://arxiv.org/abs/2110.09485)]
 
 `07` Crisostomi, Donato, et al. "From Charts to Atlas: Merging Latent Spaces into One." (PMLR 2023) [[summary](summaries/07_crisostomi2023from.md)], [[source](https://arxiv.org/abs/2311.06547)]
