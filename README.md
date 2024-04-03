@@ -6,7 +6,9 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
-`10` Wilson, Samuel, et al. "Hyperdimensional feature fusion for out-of-distribution detection." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023. [[summary](summaries/10_wilson2023hyperdimensional.md)], [[source](https://openaccess.thecvf.com/content/WACV2023/papers/Wilson_Hyperdimensional_Feature_Fusion_for_Out-of-Distribution_Detection_WACV_2023_paper.pdf
+`11` Zaeemzadeh, Alireza, et al. "Out-of-distribution detection using union of 1-dimensional subspaces." (CVPR 2021) [[summary](summaries/11_zaeemzadeh2021out.md)], [[source](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)]
+
+`10` Wilson, Samuel, et al. "Hyperdimensional feature fusion for out-of-distribution detection." (WACV 2023). [[summary](summaries/10_wilson2023hyperdimensional.md)], [[source](https://openaccess.thecvf.com/content/WACV2023/papers/Wilson_Hyperdimensional_Feature_Fusion_for_Out-of-Distribution_Detection_WACV_2023_paper.pdf
 )]
 
 `09` Fu, Stephanie, et al. "FeatUp: A Model-Agnostic Framework for Features at Any Resolution." (ICLR 2024). [[summary](summaries/09_fu2024featup.md)], [[source](https://arxiv.org/abs/2403.10516)]
