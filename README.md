@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`12` Ming, Yifei, et al. "How to exploit hyperspherical embeddings for out-of-distribution detection?." (ICLR 2023) [[summary](summaries/12_ming2023how.md)], [[source](https://openreview.net/pdf?id=aEFaE0W5pAd)]
+
 `11` Zaeemzadeh, Alireza, et al. "Out-of-distribution detection using union of 1-dimensional subspaces." (CVPR 2021) [[summary](summaries/11_zaeemzadeh2021out.md)], [[source](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)]
 
 `10` Wilson, Samuel, et al. "Hyperdimensional feature fusion for out-of-distribution detection." (WACV 2023). [[summary](summaries/10_wilson2023hyperdimensional.md)], [[source](https://openaccess.thecvf.com/content/WACV2023/papers/Wilson_Hyperdimensional_Feature_Fusion_for_Out-of-Distribution_Detection_WACV_2023_paper.pdf
