@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`13` Franchi, Gianni, et al. "Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models." (CVPR 2024) [[summary](summaries/13_franchi2024make.md)], [[source](https://arxiv.org/pdf/2312.15297v1)]
+
 `12` Ming, Yifei, et al. "How to exploit hyperspherical embeddings for out-of-distribution detection?." (ICLR 2023) [[summary](summaries/12_ming2023how.md)], [[source](https://openreview.net/pdf?id=aEFaE0W5pAd)]
 
 `11` Zaeemzadeh, Alireza, et al. "Out-of-distribution detection using union of 1-dimensional subspaces." (CVPR 2021) [[summary](summaries/11_zaeemzadeh2021out.md)], [[source](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)]
