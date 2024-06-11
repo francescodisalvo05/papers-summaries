@@ -25,7 +25,7 @@ The main idea of DOS (Diverse Outlier Sampling) is to choose outliers that are r
 
 To achieve diversity, the first step involves clustering via k-means over the normalized features extracted with the same feature extractor used for training. Then, to select the most informative samples, for each cluster, the closest samples to the decision boundary are chosen. This is modeled using the inverse absent category probability.
 
-> Given $N$ classes, this refers to the probability of the softmax calculated on a "novel" (absent) class $N+1$: $$1.0 - P(N+1|x)$$.
+> Given $N$ classes, this refers to the probability of the softmax calculated on a "novel" (absent) class $N+1 \rightarrow 1.0 - P(N+1|x)$.
 
 The objective function is a modified Cross Entropy which considers both ID data (using the known classes) and the OOD data, using the fake "absent" class N+1. 
 
