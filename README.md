@@ -6,6 +6,8 @@ I usually *try* to stay up-to-date through the latest conferences, as well as wi
 
 ## 2024
 
+`17` Bai, Haoyue, et al. "HYPO: Hypershperical Out-of-Distribution Generalization." (ICLR2024) [[summary](summaries/17_bai2024hypershperical.md)], [[source](https://openreview.net/forum?id=VXak3CZZGC)]
+
 `16` Chen, Qiuyi, et al. "Compressing Latent Space via Least Volume." (ICLR2024) [[summary](summaries/16_chen2024compressing.md)], [[source](https://openreview.net/pdf?id=jFJPd9kIiF)]
 
 `15` Liang, Jian, et al. "Realistic Unsupervised CLIP Fine-tuning with Universal Entropy Optimization." (ICML2024) [[summary](summaries/15_liang2024realistic.md)], [[source](https://openreview.net/pdf?id=XxCfToC9pJ)]
