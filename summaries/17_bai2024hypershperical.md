@@ -1,6 +1,6 @@
 ## HYPO: Hypershperical Out-of-Distribution Generalization
 
-* Authors: Haoyue Bai*, Yifei Ming1∗, Julian Katz-Samuels2, Yixuan Li
+* Authors: Haoyue Bai*, Yifei Ming*, Julian Katz-Samuels, Yixuan Li
 * Published: ICLR 2024
 * Topic: OOD, OOD Generalization
 * Link: https://openreview.net/forum?id=VXak3CZZGC
